@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Olá Mundo FIAP 2TDSG</string>
+    <string name="welcome">Bem-vindo ao desenvolvimento de aplicações Android</string>
+    <string name="deitel_logo">Joinha duplo do inseto do Deitel</string>
+</resources>
